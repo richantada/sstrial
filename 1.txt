@@ -1,0 +1,759 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channeliptv/logogrey/grey_logo_citradrama_small.png" group-title="MUSIC", Citra Dangdut
+https://vcdnjt.useetv.com/joss/14/citradangdut/chunklist_w579596927_b684100_sleng_paskas.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", TMusic
+https://cdnbpp1.useetv.com/joss/14/tmusic/chunklist_w855961349_b684100_sleng_paskas.m3u8
+#EXTINF: -1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="MUSIC", Prambors
+https://cdnbpp1.useetv.com/joss/14/pramborstv/chunklist_w229786603_b684100_sleng_paskas.m3u8
+#EXTINF: -1 tvg-logo="https://tvkita.my.id/img/mix.png" group-title="MUSIC", MIX
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+#EXTINF: -1 tvg-logo="https://tvkita.my.id/img/zing.png" group-title="MUSIC", Zing
+https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
+#EXTINF: -1 tvg-logo="https://tvkita.my.id/img/mastii.png" group-title="MUSIC", Mastiii
+https://streamer-1.toffeelive.com/live/masti_576/index.m3u8
+#EXTINF: -1 tvg-logo="https://tvkita.my.id/img/dangdutz.png" group-title="MUSIC", Dangdutz
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://tvkita.my.id/img/channelv.png" group-title="MUSIC", Channel V
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", MTV SD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", MTV HD
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", MiX Music
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", ZOOM
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", XLITE MUSIC
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSIC", Music Choice | HD
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF: -1 tvg-name="Music Choice" tvg-logo="https://i.imgur.com/5TFkX4F.png" group-title="MUSIC", MC Music Choice
+http://tvpremiumhd.club/lista-gratuita/green/mcmusicchoice.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/jE6NEKA.png" group-title="MUSIC", Hit TV | SD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF: -1 tvg-name="TOP Latino" tvg-logo="https://i.imgur.com/QMt8xxw.png" group-title="MUSIC", TOP Latino
+http://tvpremiumhd.club/lista-gratuita/green/toplatino.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", KEENG MUSIC
+http://125.235.29.16/livetv/keeng.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", ONE
+http://rtmp.one.by:1300
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", O FHD
+http://77.232.128.68/bks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="MUSIC", XLITE MUSIC
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="KIDS", Bomerang Indo
+https://dl.dropbox.com/s/1xa4i4uv5jlq00n/bome.m3u8?dl=0
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="KIDS", Spacetoon Indo
+https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="KIDS", Hore
+https://dl.dropbox.com/s/63s89rm1bggmna6/hore.m3u8?dl=0
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="KIDS", Dunia Anak
+https://dl.dropbox.com/s/8lcdbexpr0zcgu3/anak.m3u8?dl=0
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="KIDS", Cartoon Network
+https://dl.dropbox.com/s/eyfch39sot2it92/carton.m3u8?dl=0
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="KIDS", Nickeledeon
+https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
+#EXTINF: -1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="KIDS", Nick JR
+https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w5748593_b684100_sleng_80916.m3u8
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS", DISNEY JUNIOR Indo SD Indo
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS", DISNEY JUNIOR Indo HD Indo
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KIDS", Bomerang Eng
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KIDS", Disney Chanel Eng
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/2jqvqKPC/logo-for-print-med-5a7c20f9f13344239c117812.jpg" group-title="KIDS", Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/hvsx2SRH/download-2.png" group-title="KIDS", Toonmax
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/65snRqCy/kid.png" group-title="KIDS", EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/65snRqCy/kid.png" group-title="KIDS", EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qvqJvXgn/8c23ffe477717c21de730f66685c3972.png" group-title="KIDS", nick
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FKBzbCkh/b7d0b9b328686c9b8a7448a0def076bf7cd556a477b74c0777381f1e998b546e.png" group-title="KIDS", BABY TV
+http://iliketot.dyndns.tv:80/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6NDU6MzEgUE0maGFzaF92YWx1ZT00ZlpSSlNNZERpZW16MWMrQmlVSjJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkwNXx1cGxheXwxNTMyMzUzNTMxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WnZaIlo.jpg" group-title="KIDS", Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF: -1 tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="KIDS", AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS", Aniplus
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/dztnc_Wsuy8/maxresdefault.jpg" group-title="KIDS", ANIMAX
+http://210.210.155.35/dr9445/h/h144/index2.m3u8
+#EXTINF: -1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS", MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS", BOOMERANG
+http://88.216.48.14:80/boomerang/live.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8k0MyHBZ/2000px-NHK-Educational-TV-logo-svg.png" group-title="KIDS", Ben 10
+http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/2yQbGPQJ/Boruto-logo.png" group-title="KIDS", BORUTO NEXT GENERATION
+http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/K82XCCnf/download.jpg" group-title="KIDS", CAPTAIN TSUBASA 2019
+http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/MTCxHHQ2/download-1.jpg" group-title="KIDS", DETECTIFE CONAN 1
+http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/MTCxHHQ2/download-1.jpg" group-title="KIDS", DETECTIFE CONAN 2
+http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/MTCxHHQ2/download-1.jpg" group-title="KIDS", DETECTIFE CONAN 3
+http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/02dMgRT2/a1aaf240241a7d4a09876453209b531e.png" group-title="KIDS", DISNEY MOVIE
+http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/05G2jGcV/download.png" group-title="KIDS", DORAEMON SERIES
+http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/05G2jGcV/download.png" group-title="KIDS", DORAEMON MOVIE
+http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/dQ5p5L1q/MV5-BZj-Nm-ZDhk-N2-Qt-NDYy-ZC00-Yz-Jm-LTg0-ODUt-N2-Fj-Njhh-Mz-E3-Zm-Ux-Xk-Ey-Xk-Fqc-Gde.jpg" group-title="KIDS", HUNTER X HUNTER
+http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/xCCy8TSR/download-2.jpg" group-title="KIDS", INUYASHA
+http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/XvZ961KH/KORUKO-S.png" group-title="KIDS", KORUKO' S BASKETBALL
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/CM6YzvbH/maxresdefault.jpg" group-title="KIDS", LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Y0gHc7jr/tom-and-jerry-4fea3323ee1f0.png" group-title="KIDS", TOM & JERRY TV
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cHyh9NqM/download-3.jpg" group-title="KIDS", TOTALLY SPIES
+http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/kXzbFvPW/key-art-one-piece.jpg" group-title="KIDS", O NE PIECE TV
+http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/SRwx8VYs/download-4.jpg" group-title="KIDS", ONE PUNCH MAN
+http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/4y5T45vq/download-5.jpg" group-title="KIDS", EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Bb11djxj/images.jpg" group-title="KIDS", KTV Kids
+https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/7LdzX12F/download-6.jpg" group-title="KIDS", KurdMax Papule
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/CLhRGr2Z/Kuriakos-kids-V2.jpg" group-title="KIDS", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/fWBzNzHL/download-7.jpg" group-title="KIDS", SAT7kids
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gjfBWLQQ/download-8.jpg" group-title="KIDS", TCT Kids
+http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/5N8MtfgL/Tiji-2012.png" group-title="KIDS", TiJi
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/fyj56q7t/download-9.jpg" group-title="KIDS", TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HxSkBdRV/download-1.png" group-title="KIDS", Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VNqRSHT7/images-1.jpg" group-title="KIDS", WZra Kids TV
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VNqRSHT7/images-1.jpg" group-title="KIDS", ???????.?? TV
+http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VNqRSHT7/images-1.jpg" group-title="KIDS", ??????? TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VNqRSHT7/images-1.jpg" group-title="KIDS", ??????? TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zHBdnNs/download-2.png" group-title="KIDS", ???? ton1
+http://92.43.140.249/s77/04.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zHBdnNs/download-2.png" group-title="KIDS", ????ton2
+http://ott-cdn.ucom.am/s77/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zHBdnNs/download-2.png" group-title="KIDS", ?????ton3
+http://92.43.140.249/s58/04.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zHBdnNs/download-2.png" group-title="KIDS", ?????ton4
+http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zHBdnNs/download-2.png" group-title="KIDS", ????? saher ext toon
+http://ott-cdn.ucom.am/s58/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zHBdnNs/download-2.png" group-title="KIDS", ????? saher ext toon2
+http://ott-cdn.ucom.am/s57/04.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zHBdnNs/download-2.png" group-title="KIDS", ????? saher ext toon3
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zHBdnNs/download-2.png" group-title="KIDS", ???? / Nice Bingo
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF: -1 tvg-logo="http://122.248.43.138:1935/ch21/myStream/live.m3u8" group-title="KNOWLEDGE", Histori Indo
+https://vcdnjt.useetv.com/joss/15/history/chunklist_w709750080_b894100_sleng_99926.m3u8
+#EXTINF: -1 tvg-logo="http://122.248.43.138:1935/ch21/myStream/live.m3u8" group-title="KNOWLEDGE", NGC Indo
+https://dl.dropbox.com/s/8rgnjq54s37lyjd/ngc.m3u8?dl=0
+#EXTINF: -1 tvg-logo="http://122.248.43.138:1935/ch21/myStream/live.m3u8" group-title="KNOWLEDGE", Natgeo People Indo
+https://dl.dropbox.com/s/z07i4ue96t6loi0/ngp.m3u8?dl=0
+#EXTINF: -1 tvg-logo="http://122.248.43.138:1935/ch21/myStream/live.m3u8" group-title="KNOWLEDGE", Natgeo Wild Indo
+https://dl.dropbox.com/s/fne4xfq00xheucf/ngw.m3u8?dl=0
+#EXTINF: -1 tvg-logo="http://122.248.43.138:1935/ch21/myStream/live.m3u8" group-title="KNOWLEDGE", Discoveri Indo
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", Outdor Eng
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st%3D1576672231%7Eexp%3D9007200831413222%7Eacl%3D%2F4333904e5f68426cae808a645e882206%2F%2A%2Fprofile_2%2Fchunklist.m3u8%2A%7Ehmac%3Dd22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7&fbclid=IwAR2qIsZ1TLiwJTxnzSp45AHQLa7U2FbOfcaY2IS1LbXUyc6ytORe8SsaXrc
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", natgeo Eng
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", NatGeoPeople Eng
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", NatGeoWild Eng
+http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF: -1 group-title="KNOWLEDGE", History Channel 2 Eng
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", Fish Channel
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/b4/60/b6/b460b602af2cc59b945811a87e9eb405.jpg" group-title="KNOWLEDGE", AFC
+https://vcdnjt.useetv.com/joss/15/afc/chunklist_w1806772519_b1344100_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", Foodie Channel
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", Discovery Science
+http://app94395345.tk:8081/selcuksportsbelgesel/discoverysceince/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", Animal Planet
+https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_nhkworld_big.png" group-title="KNOWLEDGE", NHK World
+http://210.210.155.35/uq2663/h/h23/index1.m3u8
+#EXTINF: -1 tvg-logo="http://images2.useetv.com/logo_nhkworld_big.png" group-title="KNOWLEDGE", NHK WORLD JAPAN
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF: -1 tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="KNOWLEDGE", E NEWS
+http://45.126.83.51/uq2663/h/h10/01.m3u8
+#EXTINF: -1 tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="KNOWLEDGE", TV 5 MONDE
+http://rr2.dens.tv/s/s24/index2.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", BLOOMBERG
+https://bblive-liveprodapnortheast.hs.llnwd.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", DW TV
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", MKC EDU 1 HD
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", MKC EDU 2HD
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="KNOWLEDGE", MKC EDU 3 HD
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF: -1 group-title="Ungrouped", CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", BERITA_SATU_HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", BERITA_SATU_WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI 3
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI BENGKULU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Kupang
+http://118.97.50.107/Content/HLS/Live/Channel(TVRInttkupang)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Denpasar
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Jogja
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Semarang
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Surabaya
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Bandung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Jakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Aceh
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIaceh)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Medan
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Padang
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Pekan Baru
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Bengkulu
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Belitung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIbabel)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Palembang
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsumsel)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Lampung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIlampung)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Samarinda
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI Makassar
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(02)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI JAMBI
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI JATENG SEMARANG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI KALBAR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI KALSEL BANJARMASIN
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIkalselbanjarmsn)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI KALTENG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIkalteng)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI KALTIM SAMARINDA http://118.97.50.107/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI PAPUA http://118.97.50.107/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVRI SULUT MANADO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", SAKTI TV http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", RUAI TV
+http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", SBCTV JATIM
+http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", RADAR TV TASIKMALAYA
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", BMS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", ADI TV YOGYAKARTA
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", Jakarta Globe news Channel TV
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", DANGDUT TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TV9 NUSANTARA
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", KITANESIA
+http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", IN HD
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TATA TV
+http://flash1.broadcastindo.net/tatv/live.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", DAII TV HD
+http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", VOA TV
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", ASWAJA
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", MADU TV
+http://videostream.indostreamserver.com:1935/madufm/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", MAKKAH TV
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", NABAWI TV
+http://stream2.ninmedia.tv/live/xmedia-nabawitv.stream_nin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", PULDAPII TV
+http://178.128.49.255/mobile/web.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", NIAGA TV
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", NU CHANNEL
+http://stream1.ninmedia.tv/live/xmedia-nuchannel.stream_nin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", BANTEN TV
+http://122.248.32.234:1935/ch22/myStream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", REFORMED 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", RODJA TV
+http://rr2.dens.tv/s/s14/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", AHYAR TV
+http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", RRI NET
+http://stream1.ninmedia.tv/live/xmedia-rrinet.stream_nin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", RUMAH TV
+http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", SALING SAPA
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", SUNNAH NABAWIYAH
+http://rr2.dens.tv/s/s27/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TABALONG TV
+http://stream1.ninmedia.tv/live/xmedia-tabalongtv.stream_nin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", TEGAR TV
+http://wms.klikhost.com/tegartv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", THE INDONESIAN CHANNEL http://202.93.133.3:1935/svr2/tic.com.stream_720p/playlist.m3u8
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", JEMBER1 TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", J'GO TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", BBS TV
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", BMW TV
+http://stream1.ninmedia.tv/live/xmedia-bmwtv.stream_nin/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LOKAL DAERAH", HIDUP TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/17F4PQN/bbstv.png" group-title="LOKAL DAERAH", BBS TV
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="TV Islam", Al Quran Al Kareem TV
+https://stream.simpaisa.com/pitvlive2//makkah_360p/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="TV Islam", Al Sunnah Al Nabawiyah TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="TV Islam", Ayat live
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/aqshatv.png" group-title="TV Islam", Aqsha TV
+https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w383378603.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/wesal.png" group-title="TV Islam", Wesal TV Cipayung
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/surautv.png" group-title="TV Islam", Surau TV Padang
+http://119.235.249.58:1935/surautv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/ahsan.png" group-title="TV Islam", Ahsan TV Cikarang
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="TV Islam", Rodja TV Cileungsi
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png" group-title="TV Islam", Rodja TV backup
+https://tv.rodja.live/live/smil:rodjatv.smil/chunklist_w955375744_b1564000.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/insantv.png" group-title="TV Islam", Insan TV Pondok Kelapa
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/puldapiitv.png" group-title="TV Islam", Puldapii TV Bekasi
+http://103.77.106.227:8080/hls/web.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/mgitv.png" group-title="TV Islam", MGI TV Tasikmalaya
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/sntivi.png" group-title="TV Islam", Sabilun Najah TV Batam
+http://wowza58.indostreamserver.com:1935/sntv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/salamtv.png" group-title="TV Islam", Salam TV Deli Serdang
+http://wowza60.beetecmedia.com:1935/salamtv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="TV Islam", Al-Iman TV Surabaya
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.tvislamonline.com/images/logo/niagatv.png" group-title="TV Islam", Niaga TV Jagakarsa
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/ashiiltv.png" group-title="TV Islam", Ashiil TV Pekanbaru
+http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://live.artvisi.or.id/logo/erjetv.png" group-title="TV Islam", Erje TV Pekanbaru
+http://live.beetecmedia.com:1936/live/erjetv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://www.1mdb.my/wp-content/uploads/2015/03/Bernama.png" group-title="TV Islam", BERNAMA TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="TV Islam", ASWAJA
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LIFESTYLE", FASHION FHD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LIFESTYLE", FASHION HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="LIFESTYLE", FASHION HD2
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF: -1 tvg-logo="http://image.azuza.web.id/images/tv5-1553040402.jpg" group-title="TV LUAR", TV5 Monde OTT
+http://rr2.dens.tv/s/s24/index2.m3u8
+#EXTINF: -1 tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="TV LUAR", CCTV 4
+http://rr2.dens.tv/s/s19/index2.m3u8
+#EXTINF: -1 tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="TV LUAR", CGTN
+http://rr2.dens.tv/s/s20/index2.m3u8
+#EXTINF: -1 tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="TV LUAR", CHINO
+http://rr2.dens.tv/s/s50/index2.m3u8
+#EXTINF: -1 tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="TV LUAR", Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF: -1 tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="TV LUAR", NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF: -1 tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="TV LUAR", Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF: -1 tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="TV LUAR", ktv
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF: -1 tvg-name=" https://soombo.com/assets/images/200_1458422731.png" group-title="TV LUAR", CBS TV
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF: -1 tvg-name=" https://soombo.com/assets/images/200_1458422731.png" group-title="TV LUAR", Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF: -1 tvg-name=" https://soombo.com/assets/images/200_1458422731.png" group-title="TV LUAR", Arirang South Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF: -1 tvg-name=" https://soombo.com/assets/images/200_1458422731.png" group-title="TV LUAR", tvb
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF: -1 tvg-name=" https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="TV LUAR", CHINA 1
+http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
+#EXTINF: -1 tvg-name=" https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="TV LUAR", CHINA 2
+http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
+#EXTINF: -1 tvg-name=" https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="TV LUAR", CHINA 3
+http://wowza4.nexttv.com.tw/liveedge/eratv3/chunklist.m3u8
+#EXTINF: -1 tvg-name=" https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="TV LUAR", CHINA 4
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF: -1 tvg-name=" https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="TV LUAR", Macau
+http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF: -1 tvg-name=" https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="TV LUAR", CHINA 5
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF: -1 tvg-name=" https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="TV LUAR", CHINA 6 HD
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF: -1 tvg-name=" https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="TV LUAR", CHINA 7 HD
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF: -1 tvg-name=" https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="TV LUAR", CCTV5+HD
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF: -1 tvg-name=" https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="TV LUAR", CHINA 8 HD
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF: -1 tvg-name=" https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="TV LUAR", CHINA 9 HD
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF: -1 tvg-name="https://tvmucho-static.s3.amazonaws.com/media/public/tvm_test/icon256x256.png" group-title="Tamil for Soma", Colors HD
+http://fr-c.movply.stream/hls/Colors.m3u8
+#EXTINF: -1 tvg-name="https://image.freepik.com/free-vector/classic-tv_7209-20.jpg" group-title="Tamil for Soma", Sony Mix
+http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
+#EXTINF: -1 tvg-name="https://image.freepik.com/free-vector/classic-tv_7209-20.jpg" group-title="Tamil for Soma", Sony Max HD
+http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+#EXTINF: -1 tvg-name="https://image.freepik.com/free-vector/classic-tv_7209-20.jpg" group-title="Tamil for Soma", Star Gold HD
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="https://image.freepik.com/free-vector/classic-tv_7209-20.jpg" group-title="Tamil for Soma", Sony Max 2
+http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF: -1 tvg-name="https://image.freepik.com/free-vector/classic-tv_7209-20.jpg" group-title="Tamil for Soma", ZEE AFLAM
+http://livecdnh3.tvanywhere.ae:80/hls/zeeaflam/index.m3u8
+#EXTINF: -1 tvg-name="https://image.freepik.com/free-vector/classic-tv_7209-20.jpg" group-title="Tamil for Soma", ZEE TV
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF: -1 tvg-name="https://image.freepik.com/free-vector/classic-tv_7209-20.jpg" group-title="Tamil for Soma", ZEE BIOSKOP
+https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582800787~exp=9007200837541778~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=3373fc972a6042253eb502f2a58546528e7a4c781c77664892a7a60985d54e3c&hdnts=st=1582800786~exp=1582800906~acl=/*~id=2515e6bc-88e0-4d01-80b8-c4a4ab64ff06~data=36.77.80.127~hmac=0f41a0b2c9d384b7b76cca94395bf0ebe4cc2e277c41eaeb7dbef2279a6550a7
+#EXTINF: -1 tvg-name="https://image.freepik.com/free-vector/classic-tv_7209-20.jpg" group-title="Tamil for Soma", ZEE CINEMA
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF: -1 tvg-name="https://image.freepik.com/free-vector/classic-tv_7209-20.jpg" group-title="Tamil for Soma", ZEE ANMOL
+http://216.144.250.174/Zee_Anm0l_HD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="https://image.freepik.com/free-vector/classic-tv_7209-20.jpg" group-title="Tamil for Soma", Zee Bollywood
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+#EXTINF: -1 group-title="Radio", Hitz FM
+http://astro1.rastream.com/hitz?type=mp3
+#EXTINF: -1 group-title="Radio", ERA FM
+http://astro2.rastream.com/era
+#EXTINF: -1 group-title="Radio", Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm.android
+#EXTINF: -1 group-title="Radio", Loker Musik Indonesia
+http://live.lokermusik.com:8142/stream
+#EXTINF: -1 group-title="Radio", Ceria FM
+http://172.83.43.162:8080/stream/;
+#EXTINF: -1 group-title="Radio", NAGASWARA FM RADIOTEMEN
+http://bogor.nagaswarafm.com:8088/stream
+#EXTINF: -1 group-title="Radio", Kool FM
+http://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF: -1 group-title="Radio", Lite FM
+http://astro1.rastream.com/lite?type=mp3
+#EXTINF: -1 group-title="Radio", NAGASWARA POP
+http://jakarta.nagaswarafm.com:8100/stream
+#EXTINF: -1 group-title="Radio", NAGASWARA DANCEDHUT
+http://jakarta.nagaswarafm.com:8200/stream
+#EXTINF: -1 group-title="Radio", Sinar FM
+http://astro2.rastream.com/sinar?type=mp3
+#EXTINF: -1 group-title="Radio", Mix FM
+http://astro2.rastream.com/mix?type=mp3
+#EXTINF: -1 group-title="Radio", Fly FM
+http://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF: -1 group-title="Radio", CMN Radio
+http://streaming.coolkas.com:8024/stream
+#EXTINF: -1 group-title="Radio", Best FM
+http://s8.voscast.com:8686/;stream1524468271750/1
+#EXTINF: -1 group-title="Radio", My FM
+http://astro1.rastream.com//myfm?type=mp3
+#EXTINF: -1 group-title="Radio", Melody FM
+http://astro3.rastream.com/melody?type=mp3
+#EXTINF: -1 group-title="Radio", Cats FM
+http://catsfm64.cspixel.com:7111/stream/;
+#EXTINF: -1 group-title="Radio", Siaraya FM
+http://starrfm.rastream.com/starrfm-suria
+#EXTINF: -1 group-title="Radio", RMK Radio
+http://rmk.baitussubhan.com:8066/stream
+#EXTINF: -1 group-title="Radio", Warna FM
+https://19043.live.streamtheworld.com/WARNA942FMAAC.aac?dist=onlineradiobox
+#EXTINF: -1 group-title="Radio", Ria FM
+https://19183.live.streamtheworld.com/RIA897FMAAC.aac?dist=onlineradiobox
+#EXTINF: -1 group-title="Radio", Kristal FM
+http://202.152.73.2:801/kfm
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [002] Surah Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [003] Surah Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [005] Surah Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [006] Surah Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [007] Surah Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [008] Surah Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [009] Surah At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [015] Surah Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [016] Surah An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [017] Surah Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [018] Surah Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [019] Surah Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [020] Surah Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [021] Surah Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [022] Surah Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [023] Surah Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [024] Surah An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://archive.org/download/MurotalMR/025.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [026] Surah Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+#EXTINF: -1 group-title="◄● Al-Quran ●►", [027] Surah An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [028] Surah Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [029] Surah Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [030] Surah Ar-Rum (Bangsa Rom)
+https://archive.org/download/MurotalMR/030.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [031] Surah Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [032] Surah As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [034] Surah Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [035] Surah Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [036] Surah Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [037] Surah As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [038] Surah Saad
+https://archive.org/download/MurotalMR/038.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [039] Surah Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [041] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [042] Surah Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [043] Surah Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [044] Surah Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [045] Surah Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [047] Surah Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [048] Surah Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [049] Surah Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [050] Surah Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [052] Surah At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [053] Surah An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [054] Surah Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+https://archive.org/download/MurotalMR/056.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [059] Surah Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [061] Surah As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [062] Surah Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [063] Surah Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [065] Surah At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [066] Surah At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [067] Surah Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [068] Surah Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [070] Surah Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [071] Surah Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [072] Surah A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [073] Surah Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [074] Surah Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [076] Surah Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [078] Surah An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [080] Surah 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [081] Surah At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [082] Surah Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [084] Surah Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [085] Surah Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [086] Surah At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [087] Surah Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [090] Surah Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [091] Surah Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [092] Surah Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [095] Surah At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [096] Surah Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [097] Surah Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [099] Surah Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://archive.org/download/MurotalMR/101.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [102] Surah At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [103] Surah Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [104] Surah Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [105] Surah Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [106] Surah Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [107] Surah Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [108] Surah Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [110] Surah An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://archive.org/download/MurotalMR/112.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="◄● Al-Quran ●►", [114] Surah An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
