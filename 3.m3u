@@ -119,5 +119,5 @@ http://203.153.218.28:9981/stream/channelid/251475608
 http://203.153.218.28:9981/stream/channelid/31701170
 #EXTINF: -1 tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="Khusus Indihome", CNBC International
 http://203.153.218.28:9981/stream/channelid/1744735983
-#EXTINF: -1 tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png group-title=" group-title="Ungrouped", CNN Internationalhttp://203.153.218.28:9981/stream/channelid/1328589592#EXTINF:0 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Khusus Indihome",Discovery Channelhttp...
+#EXTINF: -1 tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png group-title=" group-title="Khusus Indihome", CNN International
 https://ott-live.olympicchannel.com/out/u/OC1_12.m3u8
